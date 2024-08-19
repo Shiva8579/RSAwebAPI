@@ -1,0 +1,6 @@
+@RSAwebAPI_HostAddress = http://localhost:5256
+
+GET {{RSAwebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
